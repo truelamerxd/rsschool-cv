@@ -1,7 +1,22 @@
-.logo {
-width: 50px;
-height: 50px;
+body {
+    margin: 0 auto;
 }
-.secondspisoc {
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.content {
+    border-color: blue;
+    border: 2px solid rgba(255, 251, 0, 0.4);
+    width: 600px;
+    margin: 0 auto;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+.secondarylist {
     list-style-type: circle;
 }
