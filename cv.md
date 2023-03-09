@@ -8,3 +8,14 @@
 # About me:
 ## Now my goal is to learn the frontend and become a cool developer
 
+# Skills:
+* HTML
+* CSS
+* JavaScript
+* Git
+
+# Experience:
+## No development experience yet
+
+# English:
+## ~A2
